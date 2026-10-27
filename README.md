@@ -1,4 +1,4 @@
-![Barathkumar](banner.svg?v=2)
+![Barathkumar](profile-banner.svg)
 
 [Projects](#selected-projects) · [Skills](#skills-toolkit) · [Security notes](#security-notebook)
 
